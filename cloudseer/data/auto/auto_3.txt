@@ -1,0 +1,30 @@
+1	081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-1608999687919862906 src: /10.250.19.102:54106 dest: /10.250.19.102:50010
+3	081109 203519 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-1608999687919862906 src: /10.250.10.6:40524 dest: /10.250.10.6:50010
+4	081109 203519 145 INFO dfs.DataNode$DataXceiver: Receiving block blk_-1608999687919862906 src: /10.250.14.224:42420 dest: /10.250.14.224:50010
+5	081109 203519 145 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-1608999687919862906 terminating
+6	081109 203519 145 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-1608999687919862906 terminating
+7	081109 203519 145 INFO dfs.DataNode$PacketResponder: Received block blk_-1608999687919862906 of size 91178 from /10.250.10.6
+8	081109 203519 145 INFO dfs.DataNode$PacketResponder: Received block blk_-1608999687919862906 of size 91178 from /10.250.19.102
+9	081109 203519 147 INFO dfs.DataNode$PacketResponder: PacketResponder 0 for block blk_-1608999687919862906 terminating
+10	081109 203519 147 INFO dfs.DataNode$PacketResponder: Received block blk_-1608999687919862906 of size 91178 from /10.250.14.224
+11	081109 203519 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.10.6:50010 is added to blk_-1608999687919862906 size 91178
+12	081109 203519 30 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.111.209:50010 is added to blk_-1608999687919862906 size 91178
+13	081109 203519 31 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.14.224:50010 is added to blk_-1608999687919862906 size 91178
+17	081109 203521 143 INFO dfs.DataNode$DataXceiver: Received block blk_-1608999687919862906 src: /10.251.215.16:52002 dest: /10.251.215.16:50010 of size 91178
+18	081109 203521 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-1608999687919862906 src: /10.251.215.16:52002 dest: /10.251.215.16:50010
+25	081109 203521 147 INFO dfs.DataNode$DataTransfer: 10.250.14.224:50010:Transmitted block blk_-1608999687919862906 to /10.251.215.16:50010
+26	081109 203521 147 INFO dfs.DataNode$DataXceiver: Received block blk_-1608999687919862906 src: /10.250.14.224:35754 dest: /10.250.14.224:50010 of size 91178
+27	081109 203521 147 INFO dfs.DataNode$DataXceiver: Receiving block blk_-1608999687919862906 src: /10.250.14.224:35754 dest: /10.250.14.224:50010	
+30	081109 203521 19 INFO dfs.DataNode: 10.250.14.224:50010 Starting thread to transfer block blk_-1608999687919862906 to 10.251.215.16:50010, 10.251.71.193:50010
+31	081109 203521 19 INFO dfs.FSNamesystem: BLOCK* ask 10.250.14.224:50010 to replicate blk_-1608999687919862906 to datanode(s) 10.251.215.16:50010 10.251.71.193:50010	
+34	081109 203521 30 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.71.193:50010 is added to blk_-1608999687919862906 size 91178	
+36	081109 203521 34 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.215.16:50010 is added to blk_-1608999687919862906 size 91178	
+61	081109 203524 19 INFO dfs.FSNamesystem: BLOCK* ask 10.251.215.16:50010 to replicate blk_-1608999687919862906 to datanode(s) 10.251.74.79:50010 10.251.107.19:50010	
+66	081109 203526 146 INFO dfs.DataNode$DataXceiver: Received block blk_-1608999687919862906 src: /10.251.215.16:51177 dest: /10.251.215.16:50010 of size 91178
+67	081109 203526 146 INFO dfs.DataNode$DataXceiver: Received block blk_-1608999687919862906 src: /10.251.74.79:60333 dest: /10.251.74.79:50010 of size 91178
+68	081109 203526 146 INFO dfs.DataNode$DataXceiver: Receiving block blk_-1608999687919862906 src: /10.251.215.16:51177 dest: /10.251.215.16:50010
+69	081109 203526 146 INFO dfs.DataNode$DataXceiver: Receiving block blk_-1608999687919862906 src: /10.251.74.79:60333 dest: /10.251.74.79:50010	
+73	081109 203526 152 INFO dfs.DataNode$DataTransfer: 10.251.215.16:50010:Transmitted block blk_-1608999687919862906 to /10.251.74.79:50010
+74	081109 203526 19 INFO dfs.DataNode: 10.251.215.16:50010 Starting thread to transfer block blk_-1608999687919862906 to 10.251.74.79:50010, 10.251.107.19:50010
+75	081109 203526 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.74.79:50010 is added to blk_-1608999687919862906 size 91178
+76	081109 203526 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.107.19:50010 is added to blk_-1608999687919862906 size 91178

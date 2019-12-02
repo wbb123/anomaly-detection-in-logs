@@ -1,0 +1,94 @@
+.*BLOCK\* NameSystem.*allocateBlock:.*
+.*BLOCK\* NameSystem.*addStoredBlock: blockMap updated:.*is added to.*size.*
+.*Verification succeeded for.*
+.*Receiving block.*src:.*dest:.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*BLOCK\* NameSystem.*addStoredBlock: blockMap updated:.*is added to.*size.*
+.*BLOCK\* NameSystem.*allocateBlock:.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*Receiving block.*src:.*dest:.*
+.*Verification succeeded for.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*Receiving block.*src:.*dest:.*
+.*BLOCK\* NameSystem.*allocateBlock:.*
+.*Receiving block.*src:.*dest:.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*Receiving block.*src:.*dest:.*
+.*BLOCK\* NameSystem.*addStoredBlock: blockMap updated:.*is added to.*size.*
+.*Verification succeeded for.*
+.*BLOCK\* NameSystem.*addStoredBlock: blockMap updated:.*is added to.*size.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*Receiving block.*src:.*dest:.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*Receiving block.*src:.*dest:.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*BLOCK\* NameSystem.*addStoredBlock: blockMap updated:.*is added to.*size.*
+.*BLOCK\* NameSystem.*allocateBlock:.*
+.*BLOCK\* NameSystem.*addStoredBlock: blockMap updated:.*is added to.*size.*
+.*Verification succeeded for.*
+.*Receiving block.*src:.*dest:.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*Receiving block.*src:.*dest:.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*BLOCK\* NameSystem.*addStoredBlock: blockMap updated:.*is added to.*size.*
+.*BLOCK\* NameSystem.*allocateBlock:.*
+.*BLOCK\* NameSystem.*addStoredBlock: blockMap updated:.*is added to.*size.*
+.*Verification succeeded for.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*Receiving block.*src:.*dest:.*
+.*BLOCK\* NameSystem.*addStoredBlock: blockMap updated:.*is added to.*size.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*Receiving block.*src:.*dest:.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*BLOCK\* NameSystem.*addStoredBlock: blockMap updated:.*is added to.*size.*
+.*BLOCK\* NameSystem.*addStoredBlock: blockMap updated:.*is added to.*size.*
+.*BLOCK\* NameSystem.*addStoredBlock: blockMap updated:.*is added to.*size.*
+.*BLOCK\* NameSystem.*allocateBlock:.*
+.*BLOCK\* NameSystem.*addStoredBlock: blockMap updated:.*is added to.*size.*
+.*Verification succeeded for.*
+.*Verification succeeded for.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*BLOCK\* NameSystem.*addStoredBlock: blockMap updated:.*is added to.*size.*
+.*BLOCK\* NameSystem.*addStoredBlock: blockMap updated:.*is added to.*size.*
+.*BLOCK\* NameSystem.*addStoredBlock: blockMap updated:.*is added to.*size.*
+.*Verification succeeded for.*
+.*Verification succeeded for.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*PacketResponder.*for block.*terminating.*
+.*Received block.*of size.*from.*
+.*BLOCK\* NameSystem.*addStoredBlock: blockMap updated:.*is added to.*size.*
+.*BLOCK\* NameSystem.*addStoredBlock: blockMap updated:.*is added to.*size.*
+.*BLOCK\* NameSystem.*addStoredBlock: blockMap updated:.*is added to.*size.*
+.*Verification succeeded for.*
